@@ -47,4 +47,4 @@ Data is separated into two datasets: information about the customer identity and
     * train_identity.csv
     * test_transaction.csv
     * test_identification.csv
-* We combine transaction identity tables with key as TransactionID
+* We combine transaction,identity tables with key as TransactionID
